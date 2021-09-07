@@ -8,7 +8,7 @@ public class HelloGit {
         System.out.println("hello git6 update by hot-fix");
         System.out.println("hello git6 update by master branch");
         System.out.println("push it on github");
-        System.out.println("pull test from remote");
+        System.out.println("pull test from remote by local");
     }
 
 }
