@@ -11,6 +11,7 @@ public class HelloGit {
         System.out.println("pull test from remote by github server");
         System.out.println("pull test from remote by local");
         System.out.println("pull test from remote by local by local twice !!!");
+        System.out.println("pull test from remote by local by hotfix once !!!");
     }
 
 }
