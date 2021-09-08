@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("push it on github");
         System.out.println("pull test from remote by github server");
         System.out.println("pull test from remote by local");
+        System.out.println("pull test from remote by local by local twice !!!");
     }
 
 }
